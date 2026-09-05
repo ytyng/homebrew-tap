@@ -33,6 +33,15 @@ Two-pane browser for comparing before/after migration pages.
 brew install --cask ytyng/tap/side-by-side-browser
 ```
 
+### aliexpress-cli
+
+Search AliExpress from the command line, with an optional desktop window
+(`aliexpress --gui`). Apple Silicon only. Installs the `aliexpress` command.
+
+```shell
+brew install --cask ytyng/tap/aliexpress-cli
+```
+
 ## How the tap stays current
 
 The tap updates itself. `.github/workflows/update.yml` runs `scripts/update.py`

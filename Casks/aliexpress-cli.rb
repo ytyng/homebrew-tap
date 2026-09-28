@@ -1,6 +1,6 @@
 cask "aliexpress-cli" do
-  version "0.1.0"
-  sha256 "db69804d6476ffdfb7ec0ef02e911163fd4f70a36cdf767c22076d887b078105"
+  version "0.2.0"
+  sha256 "444f27af6cf206a9a6211e1f6ba93da3905cfd8637c2ede5df29b99bfad9d2ea"
 
   url "https://github.com/ytyng/aliexpress-cli/releases/download/v#{version}/aliexpress-cli-v#{version}-aarch64-apple-darwin.tar.gz"
   name "aliexpress-cli"

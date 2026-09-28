@@ -1,6 +1,6 @@
 cask "side-by-side-browser" do
-  version "0.1.1"
-  sha256 "b20a32fcf808c900d100a6091e05ff1b061ed64d3ddf7a98ac632927c3abbe9f"
+  version "0.2.0"
+  sha256 "4887cd6751eef12999fe183d85d891a5507a3dc986ec50a0fbb4036a087cf929"
 
   # electron-builder turns the spaces in the product name into dots in the
   # artifact name, and keeps them in the app bundle name.

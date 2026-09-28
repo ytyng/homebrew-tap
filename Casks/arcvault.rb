@@ -1,6 +1,6 @@
 cask "arcvault" do
-  version "0.1.2"
-  sha256 "cfe7a589cee3cb3492669fd446f34005c6fbfaf35e1be9833687b6aced04024c"
+  version "0.2.0"
+  sha256 "63a243d5a6850f5c62e870edacd34aed64fcdc50f41a76dd2c44677d36bc616e"
 
   url "https://github.com/ytyng/arcvault/releases/download/v#{version}/arcvault_#{version}_universal.dmg"
   name "ArcVault"

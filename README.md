@@ -16,15 +16,6 @@ Mac archiver that produces zip files without garbled names on Windows.
 brew install --cask ytyng/tap/arcvault
 ```
 
-### Beckwell
-
-Tabbed terminal and chat window for Claude Code and Codex, locally or over
-SSH / Kubernetes. Installs the `beckwell` command alongside the app.
-
-```shell
-brew install --cask ytyng/tap/beckwell
-```
-
 ### Clipboard Palette
 
 Shows copy-to-clipboard buttons for text piped from standard input. Installs the
